@@ -1,0 +1,2 @@
+<?php
+$communitySlackLink = "https://join.slack.com/t/elementarycommunity/shared_invite/enQtNzk4MTA5Mzc1Mzc5LTUxN2FmNDY3NDE4ZTBiNDAxMzk2Mzg4MTY5OWFkMmEwMDMzNzllZDc1NjE0ZTA1ZTY5OWU4MzE1MGM2NzczYzY";
