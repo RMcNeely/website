@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4018e60d349e16eca475e5ce95646282",
+    "content-hash": "8185a154460bef23ce40ed64f70ca8bf",
     "packages": [
         {
             "name": "erusev/parsedown",
@@ -140,6 +140,7 @@
                 "api",
                 "email"
             ],
+            "abandoned": "mailchimp/transactional",
             "time": "2015-09-22T13:58:03+00:00"
         },
         {
@@ -208,16 +209,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v7.40.0",
+            "version": "v7.82.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "04aedea5ad95b9722aa394a41787751b2b478310"
+                "reference": "218f5296923265fab4692a7f8a083ff2e7e35a21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/04aedea5ad95b9722aa394a41787751b2b478310",
-                "reference": "04aedea5ad95b9722aa394a41787751b2b478310",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/218f5296923265fab4692a7f8a083ff2e7e35a21",
+                "reference": "218f5296923265fab4692a7f8a083ff2e7e35a21",
                 "shasum": ""
             },
             "require": {
@@ -227,7 +228,7 @@
                 "php": ">=5.6.0"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "2.16.1",
+                "friendsofphp/php-cs-fixer": "2.17.1",
                 "php-coveralls/php-coveralls": "^2.1",
                 "phpunit/phpunit": "^5.7",
                 "squizlabs/php_codesniffer": "^3.3",
@@ -261,7 +262,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2020-07-06T17:51:30+00:00"
+            "time": "2021-06-04T23:26:37+00:00"
         }
     ],
     "packages-dev": [
